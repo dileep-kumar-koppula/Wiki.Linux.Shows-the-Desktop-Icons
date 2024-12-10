@@ -2,7 +2,7 @@
 
 First, you need to show the desktop icons. Use the following command:
 
-```bash
-$ xfdesktop
+$ ```bash
+xfdesktop
 ```
 Then, press `Ctrl + X`
