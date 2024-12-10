@@ -1,3 +1,8 @@
-// Shows the desktop icons. Then, Click ctrl+x
+# Show Desktop Icons
 
-# xfdesktop
+First, you need to show the desktop icons. Use the following command:
+
+```bash
+xfdesktop
+```
+Then, press `Ctrl + X`
